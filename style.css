@@ -5,11 +5,11 @@
 }
 @font-face {
     font-family: "oswald";
-    src: url(/font/Oswald-Regular.ttf);
+    src: url(font/Oswald-Regular.ttf);
 }
 body {
     
-    background-image: url(/image/fond.png);
+    background-image: url(image/fond.png);
 }
 .container{
     width:700px;
